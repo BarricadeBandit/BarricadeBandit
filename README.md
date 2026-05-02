@@ -19,7 +19,7 @@ Hi there! I'm **BarricadeBandit**, and this is my personal GitHub profile reposi
 ---
 
 ## GitHub Stats
-![Firnen08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarricadeBandit&show_icons=true&theme=radical)
+![BarricadeBandit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarricadeBandit&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarricadeBandit&layout=compact&theme=radical)
 
